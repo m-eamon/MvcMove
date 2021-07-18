@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Actors/Edit.cshtml",
+      "TargetPath": "Views\\Actors\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Movies/Delete.cshtml",
       "TargetPath": "Views\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
@@ -15639,8 +15644,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Actors/Details.cshtml",
+      "TargetPath": "Views\\Actors\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Movies/Create.cshtml",
       "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Actors/Index.cshtml",
+      "TargetPath": "Views\\Actors\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15671,6 +15686,16 @@
     {
       "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Actors/Delete.cshtml",
+      "TargetPath": "Views\\Actors\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Actors/Create.cshtml",
+      "TargetPath": "Views\\Actors\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

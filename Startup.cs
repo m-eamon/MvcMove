@@ -26,8 +26,19 @@ namespace MvcMovie
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<MvcMovieContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
+            //services.AddDbContext<MvcMovieContext>(options =>
+            //        options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
+
+            // services.AddDbContext<MvcMovieContext>(options =>
+            //     options.UseSqlite(
+            //         Configuration.GetConnectionString("SqlLiteConnection")));
+
+            //In Memory DB Option
+            //services.AddDbContext<MvcMovieContext>(opt => opt.UseInMemoryDatabase(databaseName: "MvcMovies"));
+
+            //SQL Server - Docker image
+             services.AddDbContext<MvcMovieContext>(options =>
+                     options.UseSqlServer(Configuration.GetConnectionString("LocalDockerConnection")));        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
