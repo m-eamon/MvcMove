@@ -10,6 +10,7 @@ namespace MvcMovie.Models
 
         public int Age { get; set;}
 
+        [DataType(DataType.Date)]
         public DateTime DOB { get; set; }
 
     }
