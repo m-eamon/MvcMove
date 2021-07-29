@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xrdFFYs0jyZNWjJq3O6tglpg2rFKZ2OamApTRv9mpNSX1LEIPBwiZAfi9XZ7x90z/WHIE/t6ufEK7oH1TZHKZg==",
+  "dgSpecHash": "MI/tgZrPQE7/Gvqtg+RgvCLxzySy5bCh2gnDImMmU8ES3quBjWlo7hjlVImNHEgtWmjwi3LsyoAmrgXg5BTNCw==",
   "success": true,
   "projectFilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -93,6 +93,7 @@
     "/home/eamon/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
     "/home/eamon/.nuget/packages/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg.sha512",
     "/home/eamon/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/eamon/.nuget/packages/system.net.http.formatting.extension/5.2.3/system.net.http.formatting.extension.5.2.3.nupkg.sha512",
     "/home/eamon/.nuget/packages/system.net.nameresolution/4.3.0/system.net.nameresolution.4.3.0.nupkg.sha512",
     "/home/eamon/.nuget/packages/system.net.primitives/4.3.0/system.net.primitives.4.3.0.nupkg.sha512",
     "/home/eamon/.nuget/packages/system.objectmodel/4.3.0/system.objectmodel.4.3.0.nupkg.sha512",
@@ -137,5 +138,16 @@
     "/home/eamon/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/eamon/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http.Formatting.Extension 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Net.Http.Formatting.Extension",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

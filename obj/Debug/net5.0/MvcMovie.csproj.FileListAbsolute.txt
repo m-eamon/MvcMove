@@ -177,3 +177,8 @@
 /home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/obj/Debug/net5.0/Razor/Views/Actors/Details.cshtml.g.cs
 /home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/obj/Debug/net5.0/Razor/Views/Actors/Edit.cshtml.g.cs
 /home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/obj/Debug/net5.0/Razor/Views/Actors/Index.cshtml.g.cs
+/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/obj/Debug/net5.0/Razor/Views/Home/Weather.cshtml.g.cs
+/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/obj/Debug/net5.0/Razor/Views/Weather/Index.cshtml.g.cs
+/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/bin/Debug/net5.0/System.Net.Http.Extensions.dll
+/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/bin/Debug/net5.0/System.Net.Http.Primitives.dll

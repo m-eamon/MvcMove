@@ -15624,8 +15624,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Home/Weather.cshtml",
+      "TargetPath": "Views\\Home\\Weather.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/eamon/Eamon_C_drive/dbs/B8IT147/projects/MvcMovie/Views/Weather/Index.cshtml",
+      "TargetPath": "Views\\Weather\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
