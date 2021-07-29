@@ -1,0 +1,17 @@
+@model IEnumerable<MvcMovie.Models.WeatherModel>;
+
+@{
+    ViewData["Title"] = "The Weather";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h2>Today's Weather</h2>
+
+@foreach (var item in Model)
+{
+    <p>@Html.DisplayFor(modelItem => item.WeatherDate)</p>
+    <p>@Html.DisplayFor(modelItem => item.TemperatureC)</p>
+    <p>@Html.DisplayFor(modelItem => item.TemperatureF)</p>
+    <p>@Html.DisplayFor(modelItem => item.Summary)</p>
+}
+
